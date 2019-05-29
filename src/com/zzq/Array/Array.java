@@ -1,4 +1,4 @@
-package com.zzq;
+package com.zzq.Array;
 
 /**
  * 动态数组的实现
@@ -96,12 +96,19 @@ public class Array<E> {
      * @param index
      * @return
      */
-    E get(int index){
+    public E get(int index){
         if (index < 0 || index >= size){
             throw new IllegalArgumentException("get failed.index is illegal");
         }
         return data[index];
     }
+    public E getLast(){
+        return get(size-1);
+    }
+    public E getFirst(){
+        return get(0);
+    }
+
 
     /**
      * 修改index索引位置的元素为e
@@ -188,6 +195,11 @@ public class Array<E> {
         res.append(']');
         return res.toString();
     }
+
+    /**
+     * 扩容
+     * @param newCapacity
+     */
     private void resize(int newCapacity){
         E[] newData = (E[])new Object[newCapacity];
         for (int i = 0; i < size ; i++) {

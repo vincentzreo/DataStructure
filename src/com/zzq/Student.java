@@ -1,5 +1,7 @@
 package com.zzq;
 
+import com.zzq.Array.Array;
+
 public class Student {
     private String name;
     private int score;
