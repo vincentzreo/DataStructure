@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6decebd5-d8b9-4b62-a297-2ceead78fdcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/leetcode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/queue/LoopQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/stock/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/stock/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/LinkedList/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zzq/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zzq/Array/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zzq/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zzq/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/zzq/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zzq/main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,54 +19,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/Queue.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/ArrayQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="65" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="-576">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
               <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#1433#1434#0" expanded="true" />
+                <element signature="e#1460#1461#0" expanded="true" />
+                <element signature="e#1873#1874#0" expanded="true" />
+                <element signature="e#1895#1896#0" expanded="true" />
+                <element signature="e#1926#1927#0" expanded="true" />
+                <element signature="e#1948#1949#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/LoopQueue.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="92" column="38" lean-forward="true" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+            <state relative-caret-position="1062">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding>
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,11 +78,12 @@
         <option value="$PROJECT_DIR$/src/com/zzq/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/Array.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/ArrayStack.java" />
-        <option value="$PROJECT_DIR$/src/com/zzq/main.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/leetcode/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/queue/ArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/queue/LoopQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/main.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/LinkedList/LinkedList.java" />
       </list>
     </option>
   </component>
@@ -131,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,32 +125,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zzq" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zzq" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zzq" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zzq" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoopQueue">
+  <component name="RunManager" selected="Application.main">
     <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zzq.queue.ArrayQueue" />
       <module name="DataStructure" />
@@ -253,9 +208,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.LoopQueue" />
         <item itemvalue="Application.ArrayQueue" />
-        <item itemvalue="Application.main" />
         <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
@@ -274,6 +229,8 @@
       <workItem from="1559019512361" duration="6388000" />
       <workItem from="1559032316972" duration="25000" />
       <workItem from="1559098712016" duration="9517000" />
+      <workItem from="1559137823470" duration="235000" />
+      <workItem from="1559190390408" duration="6507000" />
     </task>
     <task id="LOCAL-00001" summary="动态数组的实现">
       <created>1559031316547</created>
@@ -282,16 +239,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559031316547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="栈，队列的实现">
+      <created>1559137932568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559137932568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21012000" />
+    <option name="totallyTimeSpent" value="27754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1508043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15482573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -327,7 +292,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="动态数组的实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态数组的实现" />
+    <MESSAGE value="栈，队列的实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="栈，队列的实现" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/zzq/Student.java">
@@ -351,13 +317,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/stock.java" />
     <entry file="file://$PROJECT_DIR$/src/com/zzq/stock/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-198">
@@ -376,10 +336,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/Array/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="436">
+          <caret line="192" column="13" lean-forward="true" selection-start-line="192" selection-start-column="13" selection-end-line="192" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -390,49 +378,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/Array/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="192" column="13" lean-forward="true" selection-start-line="192" selection-start-column="13" selection-end-line="192" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="1062">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/LoopQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="92" column="38" lean-forward="true" selection-start-line="92" selection-start-column="38" selection-end-line="92" selection-end-column="38" />
+        <state relative-caret-position="-576">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
           <folding>
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+            <element signature="e#1926#1927#0" expanded="true" />
+            <element signature="e#1948#1949#0" expanded="true" />
           </folding>
         </state>
       </provider>
