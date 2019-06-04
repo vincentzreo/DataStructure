@@ -40,7 +40,6 @@ public class LinkedList<E> {
         head = node;*/
 //        head = new Node(e,head);
         add(0,e);
-        size ++;
     }
     //在链表索引位置插入新的元素E
     public void add(int index , E e){
@@ -66,7 +65,7 @@ public class LinkedList<E> {
     //获取链表中的i个元素
     public E get(int index){
         if (index < 0 || index >= size){
-            throw new IllegalArgumentException("add fail .Liiegal index.");
+            throw new IllegalArgumentException("get fail .Illegal index.");
         }
         Node cur = dummyHead.next;
         //获取索引的当前位置
@@ -81,4 +80,60 @@ public class LinkedList<E> {
     public E getLast(){
         return get(size-1);
     }
+    //修改链表的第idex(0-based)个位置的元素为e
+    public void set(int index , E e){
+        if (index < 0 || index >= size){
+            throw new IllegalArgumentException("set fail .Illegal index.");
+        }
+        Node cur = dummyHead.next;
+        for (int i = 0; i < index ; i++) {
+            cur = cur.next;
+        }
+        cur.e = e;
+    }
+    //查找链表中是否有元素e
+    public boolean contains(E e){
+        Node cur = dummyHead.next;
+        while (cur != null){
+            if (cur.e.equals(e))
+                return true;
+            cur = cur.next;
+        }
+        return false;
+    }
+    //删除位置为index的元素,返回删除的元素
+    public E remove(int index){
+        if (index < 0 || index >= size){
+            throw new IllegalArgumentException("remove fail .Illegal index.");
+        }
+        Node prev = dummyHead;
+        for (int i = 0; i < index ; i++) {
+            prev = prev.next;
+        }
+        Node retNode = prev.next;
+        prev.next = retNode.next;
+        retNode.next = null;
+        size --;
+        return retNode.e;
+    }
+    public E removeFirst(){
+        return remove(0);
+    }
+    public E removeLast(){
+        return remove(size - 1);
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder res = new StringBuilder();
+        Node cur = dummyHead.next;
+        while (cur != null){
+            res.append(cur + "->");
+            cur = cur.next;
+        }
+        res.append("Null");
+        res.append(" SIZE:" + size);
+        return res.toString();
+    }
+
 }
