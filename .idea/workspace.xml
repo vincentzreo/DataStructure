@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6decebd5-d8b9-4b62-a297-2ceead78fdcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zzq/recursion/LinkedListRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/leetcode/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zzq/leetcode/Solution876.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/leetcode/Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/leetcode/Solution3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/recursion/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/com/zzq/recursion/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zzq/leetcode/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zzq/leetcode/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zzq/recursion/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zzq/recursion/Sum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,40 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/recursion/Sum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/Solution4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-              <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/recursion/LinkedListRecursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="324">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zzq/LinkedList/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/Solution876.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-              <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -97,6 +73,8 @@
         <option value="$PROJECT_DIR$/src/com/zzq/recursion/Sum.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/leetcode/Solution3.java" />
         <option value="$PROJECT_DIR$/src/com/zzq/recursion/LinkedListRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/leetcode/Solution4.java" />
+        <option value="$PROJECT_DIR$/src/com/zzq/leetcode/Solution876.java" />
       </list>
     </option>
   </component>
@@ -180,26 +158,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
+  <component name="RunManager" selected="Application.Solution876">
     <configuration name="Inversionlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zzq.leetcode.Inversionlist" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zzq.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkListQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zzq.queue.LinkListQueue" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zzq.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,6 +198,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution876" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zzq.leetcode.Solution876" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzq.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zzq.recursion.Sum" />
       <module name="DataStructure" />
@@ -248,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution876" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Inversionlist" />
         <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.LinkListQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +255,7 @@
       <workItem from="1559989161244" duration="2424000" />
       <workItem from="1560063136125" duration="6922000" />
       <workItem from="1560155519116" duration="870000" />
-      <workItem from="1560517788884" duration="6974000" />
+      <workItem from="1560517788884" duration="8753000" />
     </task>
     <task id="LOCAL-00001" summary="动态数组的实现">
       <created>1559031316547</created>
@@ -321,15 +299,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560530793288</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="递归完成">
+      <created>1560607741539</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560607741539</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57156000" />
+    <option name="totallyTimeSpent" value="58935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16689008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,7 +356,8 @@
     <MESSAGE value="链表的实现，使用链表来实现栈与队列" />
     <MESSAGE value="链表的递归" />
     <MESSAGE value="使用递归来删除链表中的元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用递归来删除链表中的元素" />
+    <MESSAGE value="递归完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归完成" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/zzq/Student.java">
@@ -476,21 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/LinkListQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -515,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -543,21 +506,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/recursion/Sum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/queue/LinkListQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="288">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zzq/recursion/LinkedListRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -573,6 +533,45 @@
             <element signature="e#404#405#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/recursion/LinkedListRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/recursion/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zzq/leetcode/Solution876.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
