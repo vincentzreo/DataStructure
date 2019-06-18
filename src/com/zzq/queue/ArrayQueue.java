@@ -2,6 +2,10 @@ package com.zzq.queue;
 
 import com.zzq.Array.Array;
 
+/**
+ * 数组队列
+ * @param <E>
+ */
 public class ArrayQueue<E> implements Queue<E> {
     private Array<E> array;
     public ArrayQueue(int capacity){
